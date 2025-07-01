@@ -1,4 +1,4 @@
-# yandex_to_spotify
+# Yandex music to Spotify songs importer
 scripts for exporting liked tracks from yandex to liked tracks in spotify
 uses third-party yandex api
 
